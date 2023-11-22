@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1042475693046",
+    "project_id": "excessdenied-84cb1",
+    "storage_bucket": "excessdenied-84cb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042475693046:android:4d52fd0357781c9b0fcdd7",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042475693046-07s2b11evhpscos7as5evb86616sr9ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUrFQRqngZWDXP5kzgKNogCBBerUH5LY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042475693046-07s2b11evhpscos7as5evb86616sr9ou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1042475693046-ouql9hicienod371ccc3nm7mdrdemdp8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.practice.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
